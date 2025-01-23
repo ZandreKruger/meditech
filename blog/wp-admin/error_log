@@ -1,0 +1,6 @@
+[11-Dec-2024 08:24:33 UTC] PHP Warning:  Undefined array key "subscribe" in /home/prodigitalclient/public_html/meditech/blog/wp-content/plugins/newsletter/widget/minimal.php on line 65
+[11-Dec-2024 08:24:33 UTC] PHP Warning:  Attempt to read property "post_content" on null in /home/prodigitalclient/public_html/meditech/blog/wp-content/plugins/woocommerce/includes/customizer/class-wc-shop-customizer.php on line 950
+[11-Dec-2024 08:24:33 UTC] PHP Warning:  Attempt to read property "post_content" on null in /home/prodigitalclient/public_html/meditech/blog/wp-content/plugins/woocommerce/includes/customizer/class-wc-shop-customizer.php on line 950
+[11-Dec-2024 08:29:09 UTC] PHP Warning:  Undefined array key "subscribe" in /home/prodigitalclient/public_html/meditech/blog/wp-content/plugins/newsletter/widget/minimal.php on line 65
+[11-Dec-2024 08:29:09 UTC] PHP Warning:  Attempt to read property "post_content" on null in /home/prodigitalclient/public_html/meditech/blog/wp-content/plugins/woocommerce/includes/customizer/class-wc-shop-customizer.php on line 950
+[11-Dec-2024 08:29:09 UTC] PHP Warning:  Attempt to read property "post_content" on null in /home/prodigitalclient/public_html/meditech/blog/wp-content/plugins/woocommerce/includes/customizer/class-wc-shop-customizer.php on line 950

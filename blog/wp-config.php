@@ -21,16 +21,16 @@
 
 // ** Database settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define('DB_NAME', 'prodigitalclient_meditech');
+define('DB_NAME', 'meditech_blog');
 
 /** Database username */
-define('DB_USER', 'prodigitalclient_admin');
+define('DB_USER', 'meditech_admin');
 
 /** Database password */
-define('DB_PASSWORD', 'Q7Nm9ToAgbCKuztK436Dy');
+define('DB_PASSWORD', 'NYDUYTxNyZy8s4NaZsaG4');
 
 /** Database hostname */
-define('DB_HOST', 'localhost');
+define('DB_HOST', 'mysql.medi-tech.ca');
 
 /** Database charset to use in creating database tables. */
 define('DB_CHARSET', 'utf8mb4');
